@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dfordp
-- 👀 I’m interested in web, app and game development
-- 🌱 I’m currently learning Java,Python,HTML,CSS,Javascript,C#
+- 👀 I’m interested in web and app developemnt
+- 🌱 I’m currently learning Python,Javascript and it's library and industry level technologies
 - 📫 How to reach me insta @_dfordp_
 
 <!---
