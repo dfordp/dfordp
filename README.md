@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Developer with an passion to make life easy through the use of technology<br>Also A video editor,Designer, Music Producer , Photo editor and photographer
+A Developer with an passion to make life easy through the use of technology<br>Also A Video editor,Designer, Music Producer , Photo editor and photographer
 
 
 ## 🌐 Socials:
