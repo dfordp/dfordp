@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on __Software development__<br>👯 I’m looking to collaborate on __real-world projects across multiple tech stacks & organizations__<br>🤝 I’m looking for help with __real-world projects of my own & personal skill developement__<br>🌱 I’m currently learning __Backend Development, DevOps, AI/ML  & CyberSecurity__<br>💬 Ask me about __UI/UX, Frontend Development (web and mobile), System Design, Data Structures & Algorithms, Competitive Programming__<br>⚡ Fun fact __I am interested in multiple things too many to keep track of even lol__
+🔭 I’m currently working on __Software development__<br>👯 I’m looking to collaborate on __real-world projects across multiple tech stacks & organizations__<br>🤝 I’m looking for help with __real-world projects of my own & personal skill developement__<br>🌱 I’m currently learning __Backend Development, DevOps, AI/ML  & CyberSecurity__<br>💬 Ask me about __UI/UX, Frontend Development (web and mobile), System Design, Data Structures & Algorithms__<br>⚡ Fun fact __I am interested in multiple things too many to keep track of even lol__
 
 
 ## 🌐 Socials:
