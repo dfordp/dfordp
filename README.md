@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilpreet Grover</h1>
 <h3 align="center">An Indie Hacker , Open Source Advocate and Technical Writer</h3>
 
-<p align="centre"> <img src="https://tenor.com/bxuUm.gif" alt="dfordp" /> </p>
+![Alt text](https://example.com/path/to/your/gif.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfordp&label=Profile%20views&color=0e75b6&style=flat" alt="dfordp" /> </p>
 
