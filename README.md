@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tJE6b6cyczan_LsaVxeK19GE_V2ne-dK/edit](https://docs.google.com/document/d/1tJE6b6cyczan_LsaVxeK19GE_V2ne-dK/edit)
 
-- ⚡ Fun fact **a**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
