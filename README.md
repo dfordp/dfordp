@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Fada Club](https://github.com/Fada-Club)
 
-- 👨‍💻 All of my projects are available at [http://dilpreetgrover.vercel.app/](http://dilpreetgrover.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dilpreetgrover.is-a.dev/](https://dilpreetgrover.is-a.dev/)
 
 - 💬 Ask me about **Software Developement**
 
