@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dilpreetgrover2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tJE6b6cyczan_LsaVxeK19GE_V2ne-dK/edit](https://docs.google.com/document/d/1tJE6b6cyczan_LsaVxeK19GE_V2ne-dK/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1K93ilxfHvfv7_4ueDFV9CrUaHQnr7Thd/edit?usp=sharing&ouid=113178507201676811124&rtpof=true&sd=true](https://docs.google.com/document/d/1K93ilxfHvfv7_4ueDFV9CrUaHQnr7Thd/edit?usp=sharing&ouid=113178507201676811124&rtpof=true&sd=true)
 
 
 ### Blogs posts
