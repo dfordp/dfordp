@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dfordp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dfordp" height="30" width="40" /></a>
-<a href="https://twitter.com/freakanimated" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freakanimated" height="30" width="40" /></a>
+<a href="https://twitter.com/dfordp11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freakanimated" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilpreet-grover-17726b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilpreet-grover-17726b224" height="30" width="40" /></a>
 <a href="https://instagram.com/_dfordp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dfordp_" height="30" width="40" /></a>
 <a href="https://dribbble.com/_dfordp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="_dfordp_" height="30" width="40" /></a>
