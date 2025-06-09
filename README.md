@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dilpreet Grover</h1>
-<h3 align="center">An Indie Hacker , Open Source Advocate and Technical Writer</h3>
+<h3 align="center">Done with coding, now following my dreams</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfordp&label=Profile%20views&color=0e75b6&style=flat" alt="dfordp" /> </p>
 
