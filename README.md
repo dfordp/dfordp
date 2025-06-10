@@ -10,9 +10,7 @@
 - 🔭 I’m currently working on [Fada Club](https://github.com/Fada-Club)
 
 - 👨‍💻 All of my projects are available at [https://dilpreetgrover.is-a.dev/](https://dilpreetgrover.is-a.dev/)
-
-- 💬 Ask me about **Software Developement**
-
+  
 - 📫 How to reach me **dilpreetgrover2@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1K93ilxfHvfv7_4ueDFV9CrUaHQnr7Thd/edit?usp=sharing&ouid=113178507201676811124&rtpof=true&sd=true](https://docs.google.com/document/d/1K93ilxfHvfv7_4ueDFV9CrUaHQnr7Thd/edit?usp=sharing&ouid=113178507201676811124&rtpof=true&sd=true)
