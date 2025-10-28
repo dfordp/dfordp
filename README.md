@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Fada Club](https://github.com/Fada-Club)
 
-- 👨‍💻 All of my projects are available at [https://dilpreetgrover.is-a.dev/](https://dilpreetgrover.me/)
+- 👨‍💻 All of my projects are available at [https://dilpreetgrover.me/](https://dilpreetgrover.me/)
   
 - 📫 How to reach me **dilpreetgrover2@gmail.com**
 
