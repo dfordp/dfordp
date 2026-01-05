@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/freakanimated" target="blank"><img src="https://img.shields.io/twitter/follow/freakanimated?logo=twitter&style=for-the-badge" alt="freakanimated" /></a> </p>
 
-- 🔭 I’m currently working on [Fada Club](https://github.com/Fada-Club)
-
 - 👨‍💻 All of my projects are available at [https://dilpreetgrover.me/](https://dilpreetgrover.me/)
   
 - 📫 How to reach me **dilpreetgrover2@gmail.com**
